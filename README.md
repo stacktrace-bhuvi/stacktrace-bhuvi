@@ -21,7 +21,6 @@ I’m a CSE (AI & ML) student at PES University, just beginning my journey into 
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stacktrace-bhuvi&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=stacktrace-bhuvi&theme=tokyonight&cache_seconds=1800)
 
