@@ -1,12 +1,9 @@
 # Hi, I'm Bhuvi Katti 
-
-##  About Me
-
 I’m a CSE (AI & ML) student at PES University, just beginning my journey into the world of intelligent systems and data-driven technologies. I’m passionate about exploring how AI can shape real-world solutions and am continually learning through projects, experimentation, and collaboration. Looking forward to growing in the field and connecting with like-minded innovators.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ###
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -22,7 +19,7 @@ I’m a CSE (AI & ML) student at PES University, just beginning my journey into 
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Bhuvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stacktrace-bhuvi&show_icons=true&theme=tokyonight)
 
@@ -30,11 +27,8 @@ I’m a CSE (AI & ML) student at PES University, just beginning my journey into 
 
 ---
 
+## Socials
 
-## 📫 Connect With Me
-
-🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/bhuvi-katti-8b552338b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhuvi%20Katti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvi-katti-8b552338b)
 
 ---
-
-
