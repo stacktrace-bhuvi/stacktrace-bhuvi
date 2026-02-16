@@ -1,12 +1,6 @@
 # Hi, I'm Bhuvi Katti 
 
-🎓 CSE (AI & ML) Student  
-🤖 Exploring Intelligent Systems  
-💡 Passionate about Real-World AI Solutions  
-
----
-
-## 🧠 About Me
+##  About Me
 
 I’m a CSE (AI & ML) student at PES University, just beginning my journey into the world of intelligent systems and data-driven technologies. I’m passionate about exploring how AI can shape real-world solutions and am continually learning through projects, experimentation, and collaboration. Looking forward to growing in the field and connecting with like-minded innovators.
 
@@ -14,13 +8,11 @@ I’m a CSE (AI & ML) student at PES University, just beginning my journey into 
 
 ## 🛠 Tech Stack
 
-### 💻 Programming Languages
+###
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -38,14 +30,6 @@ I’m a CSE (AI & ML) student at PES University, just beginning my journey into 
 
 ---
 
-## 🚀 Current Focus
-
-- Strengthening AI & ML fundamentals  
-- Building impactful real-world projects  
-- Exploring full-stack development  
-- Growing through collaboration  
-
----
 
 ## 📫 Connect With Me
 
@@ -53,5 +37,4 @@ I’m a CSE (AI & ML) student at PES University, just beginning my journey into 
 
 ---
 
-⭐ *Always learning. Always building. Always evolving.*
 
